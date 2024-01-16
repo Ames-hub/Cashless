@@ -1,0 +1,7 @@
+venv
+__pycache__
+settings.json
+logs
+*.pem
+*.key
+ssl
